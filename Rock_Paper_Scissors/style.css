@@ -1,0 +1,52 @@
+* {
+    font-style: calibri;
+}
+
+body {
+    background-color:bisque;
+}
+header {
+    text-align: center;
+    font-weight: bolder;
+}
+.moves {
+    display: flex;
+    width: 100%;
+}
+.user, .computer {
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.user_move button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+    font-weight: 400;
+    font-size: 1.5em;
+}
+#computer_move {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: lightblue;
+    font-weight: 400;
+    font-size: 1.5em;
+    margin: 20px 200px;
+}
+.results {
+    justify-content: center;
+    text-align: center;
+}
+.result {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px 500px;
+    font-size: 2em;
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 10px;
+}
