@@ -3,3 +3,5 @@
 # "May crush si Max."
 
 # Maxwell loves <3 GitHub
+
+# Ligo 3 times a week
