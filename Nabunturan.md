@@ -1,5 +1,1 @@
-# "Dito mo yan gawin sa Nabunturan!" - Justin Nabunturan 
-
-# "May crush si Max."
-
-# Maxwell loves <3 GitHub
+# si maron kay baho lobot hehehehe
